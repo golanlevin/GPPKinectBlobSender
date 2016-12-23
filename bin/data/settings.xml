@@ -1,0 +1,33 @@
+<group>
+	<Contour_Finder>
+		<Threshold>128</Threshold>
+		<Holes>0</Holes>
+		<invert>0</invert>
+		<Count____Spacing>0</Count____Spacing>
+		<Resample_Spacing>10</Resample_Spacing>
+		<Resample_Count>100</Resample_Count>
+		<Reset_Background>0</Reset_Background>
+		<Learning_Time>4.08163</Learning_Time>
+		<Threshold_Value>215</Threshold_Value>
+		<farThreshold>7006</farThreshold>
+		<nearThreshold>1156</nearThreshold>
+		<blurAmount>1</blurAmount>
+	<Contour_Finder_Threshold>59</Contour_Finder_Threshold>
+		<Send_Holes>1</Send_Holes>
+		<invert_Contour_Finder>0</invert_Contour_Finder>
+		<Background_Threshold_Value>252</Background_Threshold_Value>
+		<cvDiffThreshold>20</cvDiffThreshold>
+		<maxArea>150000</maxArea>
+		<minArea>391</minArea>
+	<blurAmount1>4</blurAmount1>
+		<nErode0>2</nErode0>
+		<nDilate0>1</nDilate0>
+		<nErode1>0</nErode1>
+		<nDilate1>0</nDilate1>
+	</Contour_Finder>
+	<OSC_Settings>
+		<Send_Port>6667</Send_Port>
+		<ipAddress>127.0.0.1</ipAddress>
+	</OSC_Settings>
+<group/>
+</group>
